@@ -5,7 +5,6 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "vercel-build": "npm ci && npm run build",
   "devDependencies": {
     "vite": "^5.0.0"
   }
